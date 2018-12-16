@@ -1,6 +1,6 @@
 WEBSITE_BLOCKER
 
-Have you ever been distracted from the social media websites or some other websites from web while executing your work. You need to figure out the way to overcome these distractions. If your time is important for you, than you always look to figure out the way to get out from these distractions. Now you have solution to this. This website_blocker program will block all the websites you are distracted to when you are doing your work. The best part of it is, runs in the background. So you are left with no worry to look after it again and again.
+Have you ever been distracted from the social media websites or some other websites from web while executing your work. You need to figure out the way to overcome these distractions. If your time is important for you, than you will always look to figure out the way to get out from these distractions. Now you have solution to these. This website_blocker program will block all the websites you are distracted to when you are doing your work. The best part of it is, it runs in the background. So you are left with no worry to look after it again and again.
 
 How it works?
 
