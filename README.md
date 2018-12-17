@@ -14,3 +14,13 @@ eg: 127.0.0.1 www.facebook.com [This will redirect the facebook to 127.0.0.1]
 The website will be redirected in the time interval you are working. And these strings will be removed from the host file as soon as the time interval surpasses. This all task is automated by the python script and will totally excecute in background
 
 To end the process open Task Mamager>Processes Find your program and End task.
+
+Run this program with python_w.exe instead python.exe to execute it as background process. The program requires administrator privilege to run in background so make sure you run this as an administrator by right clicking >> Run as administrator.
+
+1) To make this process automatic create a task in windows using Task Scheduler. Create a new task and name the task as Website Blocker(name-as you wish) make sure to check the box [Run with highest privileges] at the bottom this will make program run with every users and administrator.
+2) At top, Create a new trigger and select [At system startup].
+3) Create action and browse to the directory of your program and select it.
+4) In conditions tab, uncheck [Start the task only if the computer is on AC power.]
+Click Ok and run the task.
+
+Now the program will run automatically in background as soon as your computer starts.
